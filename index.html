@@ -70,7 +70,7 @@ const msg = document.querySelector(".msg")
 
 const getData = async () => {
     const amount = document.querySelector("input");
-    const amountValue = amount.value;
+    let amountValue = amount.value;
     if(amountValue === "" || amount < 1){
         amountValue = 1;
         amount.value = "1";
