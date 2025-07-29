@@ -136,13 +136,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - ✅ Edge (latest)
 - ⚠️ Internet Explorer (limited support)
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an [issue](https://github.com/Dhruv-477/Currency-converter/issues) on GitHub
-- Check existing issues for solutions
-- Provide detailed information about your problem
-
 ---
 
 **Made with ❤️ by [Dhruv-477](https://github.com/Dhruv-477)**
